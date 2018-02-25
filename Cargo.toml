@@ -13,6 +13,7 @@ categories = ["algorithms", "concurrency", "data-structures"]
 
 [features]
 nightly = []
+futures = []
 
 [dependencies]
 crossbeam = "0.3.0"
